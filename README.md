@@ -48,6 +48,18 @@ GitHub: https://github.com/ktran25-bit/pricing-card-frontend-mentor-challenge
 
 ---
 
+## 📊 GitHub Stats
+
+![Kevin's Stats](https://github-readme-stats.vercel.app/api?username=ktran25&show_icons=true)
+
+---
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ktran25&layout=compact)
+
+---
+
 ## 📫 Contact Me
 
 Email: ktran0322@gmail.com  
