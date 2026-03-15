@@ -35,7 +35,7 @@ GitHub: https://github.com/username/portfolio
 ### Responsive Cooking Website
 Multi-page fictional recipe website with mobile-first design.
 
-Live Demo: https://github.com/ktran25-bit/SimplyRecipe
+Live Demo: https://ktran25-bit.github.io/SimplyRecipe/
 GitHub: https://github.com/ktran25-bit/SimplyRecipe
 
 ---
