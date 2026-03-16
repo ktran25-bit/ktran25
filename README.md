@@ -24,14 +24,6 @@ Tools
 
 ## 🚀 Featured Projects
 
-### Personal Portfolio Website
-Responsive portfolio website built using HTML, CSS, and Bootstrap.
-
-Live Demo: https://yourportfolio.com  
-GitHub: https://github.com/username/portfolio
-
----
-
 ### Responsive Cooking Website
 Multi-page fictional recipe website with mobile-first design.
 
