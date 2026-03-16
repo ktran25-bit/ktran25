@@ -36,6 +36,7 @@ GitHub: https://github.com/username/portfolio
 Multi-page fictional recipe website with mobile-first design.
 
 Live Demo: https://ktran25-bit.github.io/SimplyRecipe/
+
 GitHub: https://github.com/ktran25-bit/SimplyRecipe
 
 ---
@@ -44,6 +45,7 @@ GitHub: https://github.com/ktran25-bit/SimplyRecipe
 Interactive pricing card component built using HTML, CSS, and JavaScript.
 
 Live Demo: https://ktran25-bit.github.io/pricing-card-frontend-mentor-challenge/
+
 GitHub: https://github.com/ktran25-bit/pricing-card-frontend-mentor-challenge
 
 ---
